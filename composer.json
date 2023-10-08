@@ -1,0 +1,24 @@
+{
+    "name": "olakunlevpn/php-helpers",
+    "description": "PHP Helpers is a versatile and comprehensive collection of PHP utility functions designed to streamline your PHP development process. Whether you're building web applications, APIs, or working on other PHP projects, our package provides an extensive set of tools to simplify common tasks and boost your productivity",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Olakunlevpn\\PhpHelpers\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "olakunlevpn",
+            "email": "olakunlevpn@live.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": "^8.1",
+        "ext-json": "*",
+        "ext-ctype": "*",
+        "ext-mbstring": "*"
+    }
+}
