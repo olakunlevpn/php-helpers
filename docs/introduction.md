@@ -8,5 +8,5 @@ Some of the key features and utilities provided by php-helpers include handling 
 By integrating the php-helpers library into your PHP projects, you can save time and effort while maintaining code that is clean, secure, and efficient. It's a valuable resource for PHP developers seeking to enhance their development process and deliver robust applications.
 
 
-[Continue to usages...](/docs/usages.md)
-[See changelog...](/docs/changelog.md)
+- [Continue to usages...](/docs/usages.md)
+- [See changelog...](/docs/changelog.md)
