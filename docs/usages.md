@@ -10,7 +10,9 @@ This function outputs a JSON-formatted message. It takes an optional message str
 
 ```php
 // Output a success message
-Util::json_message("Operation completed successfully", true);
+Util::json_message("Your password has been changed!");
+
+Util::json_message("You don`t have the permission for this operation.", false);
 ```
 
 ### `redirect_to(string $url)`
@@ -445,4 +447,4 @@ echo "Absolute Integer: $absint";
 
 These are the functions provided by the `Util` class, along with usage examples for each of them.
 
-[See changelog...](/docs/changelog.md)
+- [See changelog...](/docs/changelog.md)
